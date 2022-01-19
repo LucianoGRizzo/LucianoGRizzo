@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucianoGRizzo
 - 👀 I’m interested in learning to program.
-- 🌱 I’m currently learning Python 3.
+- 🌱 I’m currently enrolled in Harvard's CS50x Online.
 
 <!---
 LucianoGRizzo/LucianoGRizzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
